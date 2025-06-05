@@ -1,0 +1,11 @@
+{
+  "api_key": "YOUR_API_KEY",
+  "api_secret": "YOUR_API_SECRET",
+  "symbol": "ETH/USDT",
+  "max_risk_usd": 100,
+  "account_size": 10000,
+  "vwap_window_seconds": 60,
+  "rsi_period": 14,
+  "atr_window": 14,
+  "sharpe_threshold": 0.5
+}

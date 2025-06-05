@@ -1,0 +1,5 @@
+ccxt
+numpy
+python-dotenv
+pytest
+# sqlite3 is part of Python stdlib, no need to pip install

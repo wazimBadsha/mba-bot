@@ -1,0 +1,9 @@
+# This file is intentionally left blank.2025-06-05 14:50:19.077373 WARNING: Could not set leverage to 1 for ETH/USDT: binance {"code":-2028,"msg":"Leverage is smaller than permitted: insufficient margin balance."}
+2025-06-05 14:51:01.805926 WARNING: Could not set leverage to 1 for ETH/USDT: binance {"code":-2028,"msg":"Leverage is smaller than permitted: insufficient margin balance."}
+2025-06-05 14:55:07.256377 WARNING: Could not set leverage to 1 for ETH/USDT: binance {"code":-2028,"msg":"Leverage is smaller than permitted: insufficient margin balance."}
+2025-06-05 14:55:33.489506 WARNING: Could not set leverage to 1 for ETH/USDT: binance {"code":-2028,"msg":"Leverage is smaller than permitted: insufficient margin balance."}
+2025-06-05 14:55:47.866833 WARNING: Could not set leverage to 1 for ETH/USDT: binance {"code":-2028,"msg":"Leverage is smaller than permitted: insufficient margin balance."}
+2025-06-05 14:57:31.574579 WARNING: Could not set leverage to 1 for ETH/USDT: binance {"code":-2028,"msg":"Leverage is smaller than permitted: insufficient margin balance."}
+2025-06-05 15:00:37.792941 WARNING: Could not set leverage to 1 for ETH/USDT: binance {"code":-2028,"msg":"Leverage is smaller than permitted: insufficient margin balance."}
+2025-06-05 15:01:47.289449+00:00 WARNING: Could not set leverage to 1 for ETH/USDT: binance {"code":-2028,"msg":"Leverage is smaller than permitted: insufficient margin balance."}
+2025-06-05 15:12:51.086665+00:00 WARNING: Could not set leverage to 1 for ETH/USDT: binance {"code":-2028,"msg":"Leverage is smaller than permitted: insufficient margin balance."}
